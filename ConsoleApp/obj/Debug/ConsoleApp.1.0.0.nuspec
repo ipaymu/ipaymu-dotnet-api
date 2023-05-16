@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConsoleApp</id>
+    <version>1.0.0</version>
+    <authors>ConsoleApp</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Riyeke Ustadiyanto\Documents\Visual Studio 2022\project\IpaymuLibrary\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json" target="lib\net6.0\ConsoleApp.runtimeconfig.json" />
+    <file src="C:\Users\Riyeke Ustadiyanto\Documents\Visual Studio 2022\project\IpaymuLibrary\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll" target="lib\net6.0\ConsoleApp.dll" />
+  </files>
+</package>

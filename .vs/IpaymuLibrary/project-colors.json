@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56bf804f-ff00-47a7-8732-908ee9544a00": {
+      "ProjectGuid": "56bf804f-ff00-47a7-8732-908ee9544a00",
+      "DisplayName": "IpaymuLibrary",
+      "ColorIndex": 0
+    },
+    "c3947713-e482-44ad-b8f4-a536987198b7": {
+      "ProjectGuid": "c3947713-e482-44ad-b8f4-a536987198b7",
+      "DisplayName": "WebApplication",
+      "ColorIndex": 1
+    },
+    "97d26c98-686f-4c5f-b55e-3d0a84b20670": {
+      "ProjectGuid": "97d26c98-686f-4c5f-b55e-3d0a84b20670",
+      "DisplayName": "WebApplicationMVC",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5cf74761-7a13-499f-b09e-005fb2dd0d39": {
+      "ProjectGuid": "5cf74761-7a13-499f-b09e-005fb2dd0d39",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 3
+    },
+    "4a5ae9d4-fd69-4aec-9f3c-eadb077c8718": {
+      "ProjectGuid": "4a5ae9d4-fd69-4aec-9f3c-eadb077c8718",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
