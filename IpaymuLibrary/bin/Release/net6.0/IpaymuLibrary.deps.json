@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IpaymuLibrary/1.0.1": {
+        "runtime": {
+          "IpaymuLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IpaymuLibrary/1.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ipaymu.Dotnet.Api</id>
+    <version>1.0.1</version>
+    <authors>IpaymuLibrary</authors>
+    <icon>ipaymu_rectangle.png</icon>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\bin\Release\net6.0\IpaymuLibrary.dll" target="lib\net6.0\IpaymuLibrary.dll" />
+    <file src="C:\Users\Riyeke Ustadiyanto\Downloads\ipaymu_rectangle.png" target="\ipaymu_rectangle.png" />
+  </files>
+</package>

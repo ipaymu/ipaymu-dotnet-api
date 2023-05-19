@@ -6,11 +6,13 @@
     <authors>ConsoleApp</authors>
     <description>Package Description</description>
     <dependencies>
-      <group targetFramework="net6.0" />
+      <group targetFramework="net6.0">
+        <dependency id="IpaymuLibrary" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\Riyeke Ustadiyanto\Documents\Visual Studio 2022\project\IpaymuLibrary\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json" target="lib\net6.0\ConsoleApp.runtimeconfig.json" />
-    <file src="C:\Users\Riyeke Ustadiyanto\Documents\Visual Studio 2022\project\IpaymuLibrary\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll" target="lib\net6.0\ConsoleApp.dll" />
+    <file src="C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json" target="lib\net6.0\ConsoleApp.runtimeconfig.json" />
+    <file src="C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll" target="lib\net6.0\ConsoleApp.dll" />
   </files>
 </package>

@@ -2,20 +2,20 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "IpaymuLibrary/1.0.0": {
+      "Ipaymu.Dotnet.Api/1.0.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/IpaymuLibrary.dll": {}
+          "bin/placeholder/Ipaymu.Dotnet.Api.dll": {}
         },
         "runtime": {
-          "bin/placeholder/IpaymuLibrary.dll": {}
+          "bin/placeholder/Ipaymu.Dotnet.Api.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "IpaymuLibrary/1.0.0": {
+    "Ipaymu.Dotnet.Api/1.0.1": {
       "type": "project",
       "path": "../IpaymuLibrary/IpaymuLibrary.csproj",
       "msbuildProject": "../IpaymuLibrary/IpaymuLibrary.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "IpaymuLibrary >= 1.0.0"
+      "Ipaymu.Dotnet.Api >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\with testing\\IpaymuLibrary\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\ipaymu-dotnet-api\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\with testing\\IpaymuLibrary\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\ipaymu-dotnet-api\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Riyeke Ustadiyanto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\with testing\\IpaymuLibrary\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\ipaymu-dotnet-api\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Riyeke Ustadiyanto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\with testing\\IpaymuLibrary\\IpaymuLibrary\\IpaymuLibrary.csproj": {
-              "projectPath": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\with testing\\IpaymuLibrary\\IpaymuLibrary\\IpaymuLibrary.csproj"
+            "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\ipaymu-dotnet-api\\IpaymuLibrary\\IpaymuLibrary.csproj": {
+              "projectPath": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\ipaymu-dotnet-api\\IpaymuLibrary\\IpaymuLibrary.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\with testing\\IpaymuLibrary\\IpaymuLibrary\\IpaymuLibrary.csproj": {}
+    "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\ipaymu-dotnet-api\\IpaymuLibrary\\IpaymuLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\with testing\\IpaymuLibrary\\IpaymuLibrary\\IpaymuLibrary.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\ipaymu-dotnet-api\\IpaymuLibrary\\IpaymuLibrary.csproj": {
+      "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\with testing\\IpaymuLibrary\\IpaymuLibrary\\IpaymuLibrary.csproj",
-        "projectName": "IpaymuLibrary",
-        "projectPath": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\with testing\\IpaymuLibrary\\IpaymuLibrary\\IpaymuLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\ipaymu-dotnet-api\\IpaymuLibrary\\IpaymuLibrary.csproj",
+        "projectName": "Ipaymu.Dotnet.Api",
+        "projectPath": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\ipaymu-dotnet-api\\IpaymuLibrary\\IpaymuLibrary.csproj",
         "packagesPath": "C:\\Users\\Riyeke Ustadiyanto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\with testing\\IpaymuLibrary\\IpaymuLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Riyeke Ustadiyanto\\Documents\\ipaymu\\Lib Ipaymu\\ipaymu-dotnet-api\\IpaymuLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Riyeke Ustadiyanto\\AppData\\Roaming\\NuGet\\NuGet.Config",

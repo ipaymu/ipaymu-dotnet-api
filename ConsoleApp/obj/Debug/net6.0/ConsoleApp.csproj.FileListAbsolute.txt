@@ -16,3 +16,21 @@ C:\Users\Riyeke Ustadiyanto\Documents\Visual Studio 2022\project\IpaymuLibrary\C
 C:\Users\Riyeke Ustadiyanto\Documents\Visual Studio 2022\project\IpaymuLibrary\ConsoleApp\bin\Debug\net6.0\IpaymuLibrary.pdb
 C:\Users\Riyeke Ustadiyanto\Documents\Visual Studio 2022\project\IpaymuLibrary\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
 C:\Users\Riyeke Ustadiyanto\Documents\Visual Studio 2022\project\IpaymuLibrary\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CopyComplete
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\ref\ConsoleApp.dll
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\IpaymuLibrary.dll
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\IpaymuLibrary.pdb
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CopyComplete
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache

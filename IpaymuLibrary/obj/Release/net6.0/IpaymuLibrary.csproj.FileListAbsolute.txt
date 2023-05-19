@@ -1,0 +1,12 @@
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\bin\Release\net6.0\IpaymuLibrary.deps.json
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\bin\Release\net6.0\IpaymuLibrary.dll
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\bin\Release\net6.0\ref\IpaymuLibrary.dll
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\bin\Release\net6.0\IpaymuLibrary.pdb
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\obj\Release\net6.0\IpaymuLibrary.csproj.AssemblyReference.cache
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\obj\Release\net6.0\IpaymuLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\obj\Release\net6.0\IpaymuLibrary.AssemblyInfoInputs.cache
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\obj\Release\net6.0\IpaymuLibrary.AssemblyInfo.cs
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\obj\Release\net6.0\IpaymuLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\obj\Release\net6.0\IpaymuLibrary.dll
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\obj\Release\net6.0\ref\IpaymuLibrary.dll
+C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\obj\Release\net6.0\IpaymuLibrary.pdb
