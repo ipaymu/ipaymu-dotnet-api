@@ -12,6 +12,6 @@
   </metadata>
   <files>
     <file src="C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\bin\Release\net6.0\IpaymuLibrary.dll" target="lib\net6.0\IpaymuLibrary.dll" />
-    <file src="C:\Users\Riyeke Ustadiyanto\Downloads\ipaymu_rectangle.png" target="\ipaymu_rectangle.png" />
+    <file src="C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\IpaymuLibrary\bin\Release\ipaymu_rectangle.png" target="\ipaymu_rectangle.png" />
   </files>
 </package>

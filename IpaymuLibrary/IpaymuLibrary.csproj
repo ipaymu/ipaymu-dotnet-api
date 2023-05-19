@@ -11,7 +11,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\ipaymu_rectangle.png">
+    <None Include="bin\Release\ipaymu_rectangle.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
