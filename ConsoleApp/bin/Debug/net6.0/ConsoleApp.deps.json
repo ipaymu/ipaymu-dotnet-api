@@ -8,15 +8,18 @@
     ".NETCoreApp,Version=v6.0": {
       "ConsoleApp/1.0.0": {
         "dependencies": {
-          "IpaymuLibrary": "1.0.0"
+          "IpaymuLibrary": "1.0.1.0"
         },
         "runtime": {
           "ConsoleApp.dll": {}
         }
       },
-      "IpaymuLibrary/1.0.0": {
+      "IpaymuLibrary/1.0.1.0": {
         "runtime": {
-          "IpaymuLibrary.dll": {}
+          "IpaymuLibrary.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
         }
       }
     }
@@ -27,8 +30,8 @@
       "serviceable": false,
       "sha512": ""
     },
-    "IpaymuLibrary/1.0.0": {
-      "type": "project",
+    "IpaymuLibrary/1.0.1.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

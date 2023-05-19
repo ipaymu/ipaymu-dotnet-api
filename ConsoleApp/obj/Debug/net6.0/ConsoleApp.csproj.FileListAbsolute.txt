@@ -24,7 +24,6 @@ C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\Consol
 C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
 C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\IpaymuLibrary.dll
 C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\bin\Debug\net6.0\IpaymuLibrary.pdb
-C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
 C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
 C:\Users\Riyeke Ustadiyanto\Documents\ipaymu\Lib Ipaymu\ipaymu-dotnet-api\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
