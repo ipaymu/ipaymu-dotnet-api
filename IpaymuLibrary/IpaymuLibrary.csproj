@@ -8,6 +8,9 @@
     <PackageIcon>ipaymu_rectangle.png</PackageIcon>
     <PackageId> Ipaymu.Dotnet.Api</PackageId>
     <Version>1.0.1</Version>
+    <ProjectUrl>https://github.com/ipaymu/ipaymu-dotnet-api.git</ProjectUrl> 
+    <RepositoryUrl>https://github.com/ipaymu/ipaymu-dotnet-api.git</RepositoryUrl> 
+    <RepositoryType>git</RepositoryType> 
   </PropertyGroup>
 
   <ItemGroup>
